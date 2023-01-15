@@ -6,7 +6,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="QAP_PetFriendsTesting" />
+    <orderEntry type="module" module-name="PetFriends_Tests" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />
